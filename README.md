@@ -19,7 +19,7 @@ Excited to give it a try? Here's how you can get started:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/anime-Nexus-app.git
+   git clone https://github.com/your-username/anime-Nexus.git
    ```
 
 2. Install dependencies:

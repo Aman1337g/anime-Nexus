@@ -13,7 +13,7 @@ Before diving into contributions, make sure to follow the installation instructi
    - Clone your forked repository to your local machine.
 
    ```bash
-   git clone https://github.com/your-username/anime-Nexus-app.git
+   git clone https://github.com/your-username/anime-Nexus.git
    ```
 
 2. **Create a Branch:**
